@@ -105,6 +105,17 @@ body {
     .image-wrapper {
         width: 100%;
     }
+    .image-content h2 {
+        font-size: 18px; 
+    }
+    .image-content p {
+        font-size: 12px; 
+    }
+    .redirect-button,
+    .register-button {
+        font-size: 14px; 
+        padding: 8px 16px; 
+    }
     .test-images-container {
         flex-direction: column;
         align-items: center;
